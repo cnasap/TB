@@ -29,7 +29,7 @@
                 "添加新任务":{
                 "name":"添加新任务",
                 "action":"more",
-                "url":"https://gitcode.net/felixax/auto/-/raw/master/tasks.json"
+                "url":"https://raw.gitmirror.com/cnasap/TB/refs/heads/main/tasks.json"
                 },
                 "删除任务":{
                     "action":"setfile",
@@ -72,7 +72,7 @@
             "淘宝-芭芭农场":{
                 "name":"淘宝-芭芭农场",
                 "tasks":["种树"],
-                "url":"https://gitcode.net/felixax/auto/-/raw/master/bbnc.json",
+                "url":"https://raw.gitmirror.com/cnasap/TB/refs/heads/main/bbnc.json",
                
                 "action":"setfile",
                 "type":"addTask"
@@ -80,7 +80,7 @@
             "淘宝-薅羊毛赚话费":{
                 "name":"淘宝-薅羊毛赚话费",
                 "tasks":["赚话费"],
-                "url":"https://gitcode.net/felixax/auto/-/raw/master/ym.json",
+                "url":"https://raw.gitmirror.com/cnasap/TB/refs/heads/main/ym.json",
                
                 "action":"setfile",
                 "type":"addTask"
@@ -88,7 +88,7 @@
             "天猫-天天领红包":{
                 "name":"天猫-天天领红包",
                 "tasks":["天天红包"],
-                "url":"https://gitcode.net/felixax/auto/-/raw/master/tiantianhb.json",
+                "url":"https://raw.gitmirror.com/cnasap/TB/refs/heads/main/tiantianhb.json",
                
                 "action":"setfile",
                 "type":"addTask"
@@ -96,7 +96,7 @@
             "淘宝-我的小窝":{
                 "name":"淘宝-我的小窝",
                 "tasks":["我的小窝"],
-                "url":"https://gitcode.net/felixax/auto/-/raw/master/wodexiaowo.json",
+                "url":"https://raw.gitmirror.com/cnasap/TB/refs/heads/main/wodexiaowo.json",
                
                 "action":"setfile",
                 "type":"addTask"
@@ -104,7 +104,7 @@
             "淘宝-元宝":{
                 "name":"淘宝-元宝",
                 "tasks":["元宝"],
-                "url":"https://gitcode.net/felixax/auto/-/raw/master/yb.json",
+                "url":"https://raw.gitmirror.com/cnasap/TB/refs/heads/main/yb.json",
                
                 "action":"setfile",
                 "type":"addTask"
@@ -113,7 +113,7 @@
             "淘宝-攒能量":{
                 "name":"淘宝-攒能量",
                 "tasks":["攒能量"],
-                "url":"https://gitcode.net/felixax/auto/-/raw/master/znl.json",
+                "url":"https://raw.gitmirror.com/cnasap/TB/refs/heads/main/znl.json",
                
                 "action":"setfile",
                 "type":"addTask"
@@ -121,7 +121,7 @@
             "淘宝-淘金币":{
                 "name":"淘宝-淘金币",
                 "tasks":["淘金币"],
-                "url":"https://gitcode.net/felixax/auto/-/raw/master/tjb.json",
+                "url":"https://raw.gitmirror.com/cnasap/TB/refs/heads/main/tjb.json",
                
                 "action":"setfile",
                 "type":"addTask"
@@ -129,7 +129,7 @@
            "天猫-摇钱树":{
                 "name":"天猫-摇钱树",
                 "tasks":["摇钱树"],
-                "url":"https://gitcode.net/felixax/auto/-/raw/master/yqs.json",
+                "url":"https://raw.gitmirror.com/cnasap/TB/refs/heads/main/yqs.json",
                
                 "action":"setfile",
                 "type":"addTask"
@@ -137,7 +137,7 @@
             "天猫-抢免单":{
                 "name":"天猫-抢免单",
                 "tasks":["抢免单"],
-                "url":"https://gitcode.net/felixax/auto/-/raw/master/md.json",
+                "url":"https://raw.gitmirror.com/cnasap/TB/refs/heads/main/md.json",
                
                 "action":"setfile",
                 "type":"addTask"
@@ -153,7 +153,7 @@
             "助力7多账号":{
                 "name":"助力7多账号",
                 "tasks":["助力7多账号"],
-                "url":"https://gitcode.net/felixax/auto/-/raw/master/zhuli7.json",
+                "url":"https://raw.gitmirror.com/cnasap/TB/refs/heads/main/zhuli7.json",
                
                 "action":"setfile",
                 "type":"addTask"                
@@ -161,7 +161,7 @@
             "助力6多账号":{
                 "name":"助力6多账号",
                 "tasks":["助力6多账号"],
-                "url":"https://gitcode.net/felixax/auto/-/raw/master/zhuli6.json",
+                "url":"https://raw.gitmirror.com/cnasap/TB/refs/heads/main/zhuli6.json",
                
                 "action":"setfile",
                 "type":"addTask"                
@@ -169,7 +169,7 @@
              "全部任务":{
                 "name":"全部任务",
                 "tasks":["全部任务"],
-                "url":"https://gitcode.net/felixax/auto/-/raw/master/quanburenwu.json",
+                "url":"https://raw.gitmirror.com/cnasap/TB/refs/heads/main/quanburenwu.json",
                
                 "action":"setfile",
                 "type":"addTask"
@@ -177,7 +177,7 @@
              "任务补充":{
                 "name":"任务补充",
                 "tasks":["任务补充"],
-                "url":"https://gitcode.net/felixax/auto/-/raw/master/task-bc.json",
+                "url":"https://raw.gitmirror.com/cnasap/TB/refs/heads/main/task-bc.json",
                
                 "action":"setfile",
                 "type":"addTask"
@@ -201,7 +201,7 @@
             "淘宝-小黑盒":{
                 "name":"淘宝-小黑盒",
                 "tasks":["小黑盒"],
-                "url":"https://gitcode.net/felixax/auto/-/raw/master/xhh.json",
+                "url":"https://raw.gitmirror.com/cnasap/TB/refs/heads/main/xhh.json",
                
                 "action":"setfile",
                 "type":"addTask"
@@ -260,7 +260,7 @@
             "淘宝-签到":{
                 "name":"淘宝-签到",
                 "tasks":["淘宝签到"],
-                "url":"https://gitcode.net/felixax/updatejson/-/raw/master/taobao/qindao.json",
+                "url":"https://raw.gitmirror.com/cnasap/TB/refs/heads/main/qindao.json",
                
                 "action":"setfile",
                 "type":"addTask"
