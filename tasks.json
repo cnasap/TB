@@ -1,0 +1,231 @@
+{
+
+        "tip":"点击任务即可添加\n需要多组任务或删除任务\n选择首页的任务设置\n----------------------------\n",
+        "list":[
+
+                
+                
+                
+                "淘宝-芭芭农场",
+                "淘宝-薅羊毛赚话费",
+                "天猫-天天领红包",
+                "淘宝-我的小窝",
+                "淘宝-元宝",
+                "淘宝-攒能量",
+                "淘宝-淘金币",
+                "天猫-摇钱树",
+                "天猫-抢免单",
+                "淘宝-拍卖币",
+                "淘宝-小黑盒",
+                "助力7多账号",
+                "助力6多账号",
+                "全部任务",
+                "任务补充",
+
+                "返回"
+                
+            ],
+        "mapping" :{
+            "淘宝-芭芭农场":{
+                "name":"淘宝-芭芭农场",
+                "tasks":["种树"],
+                "url":"https://gitcode.net/felixax/auto/-/raw/master/bbnc.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },
+            "淘宝-薅羊毛赚话费":{
+                "name":"淘宝-薅羊毛赚话费",
+                "tasks":["赚话费"],
+                "url":"https://gitcode.net/felixax/auto/-/raw/master/ym.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },
+            "天猫-天天领红包":{
+                "name":"天猫-天天领红包",
+                "tasks":["天天红包"],
+                "url":"https://gitcode.net/felixax/auto/-/raw/master/tiantianhb.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },
+            "淘宝-我的小窝":{
+                "name":"淘宝-我的小窝",
+                "tasks":["我的小窝"],
+                "url":"https://gitcode.net/felixax/auto/-/raw/master/wodexiaowo.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },
+            "淘宝-元宝":{
+                "name":"淘宝-元宝",
+                "tasks":["元宝"],
+                "url":"https://gitcode.net/felixax/auto/-/raw/master/yb.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },
+
+            "淘宝-攒能量":{
+                "name":"淘宝-攒能量",
+                "tasks":["攒能量"],
+                "url":"https://gitcode.net/felixax/auto/-/raw/master/znl.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },
+            "淘宝-淘金币":{
+                "name":"淘宝-淘金币",
+                "tasks":["淘金币"],
+                "url":"https://gitcode.net/felixax/auto/-/raw/master/tjb.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },
+           "天猫-摇钱树":{
+                "name":"天猫-摇钱树",
+                "tasks":["摇钱树"],
+                "url":"https://gitcode.net/felixax/auto/-/raw/master/yqs.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },
+            "天猫-抢免单":{
+                "name":"天猫-抢免单",
+                "tasks":["抢免单"],
+                "url":"https://gitcode.net/felixax/auto/-/raw/master/md.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },
+            "淘宝-拍卖币":{
+                "name":"淘宝-拍卖币",
+                "tasks":["拍卖币"],
+                "url":"https://gitcode.net/felixax/updatejson/-/raw/master/taobao/pm.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },
+            "助力7多账号":{
+                "name":"助力7多账号",
+                "tasks":["助力7多账号"],
+                "url":"https://gitcode.net/felixax/auto/-/raw/master/zhuli7.json",
+               
+                "action":"setfile",
+                "type":"addTask"                
+            },
+            "助力6多账号":{
+                "name":"助力6多账号",
+                "tasks":["助力6多账号"],
+                "url":"https://gitcode.net/felixax/auto/-/raw/master/zhuli6.json",
+               
+                "action":"setfile",
+                "type":"addTask"                
+            },
+             "全部任务":{
+                "name":"全部任务",
+                "tasks":["全部任务"],
+                "url":"https://gitcode.net/felixax/auto/-/raw/master/quanburenwu.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },              
+             "任务补充":{
+                "name":"任务补充",
+                "tasks":["任务补充"],
+                "url":"https://gitcode.net/felixax/auto/-/raw/master/task-bc.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },
+
+            "淘宝-双十一喵糖":{
+                "name":"淘宝-双十一喵糖",
+                "tasks":["双十一养猫"],
+                "url":"https://gitcode.net/felixax/updatejson/-/raw/master/taobao/huafei.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },
+            "淘宝-聚划算任务":{
+                "name":"淘宝-聚划算任务",
+                "tasks":["聚划算"],
+                "url":"https://gitcode.net/felixax/updatejson/-/raw/master/taobao/juhuasuan.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },
+            "淘宝-小黑盒":{
+                "name":"淘宝-小黑盒",
+                "tasks":["小黑盒"],
+                "url":"https://gitcode.net/felixax/auto/-/raw/master/xhh.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },
+            "淘特-萝卜领钱任务":{
+                "name":"淘特-萝卜领钱任务",
+                "tasks":["萝卜任务"],
+                "url":"https://gitcode.net/felixax/updatejson/-/raw/master/taobao/huafei.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },
+            "淘特-养鸡得鸡蛋任务":{
+                "name":"淘特-养鸡得鸡蛋任务",
+                "tasks":["鸡粮食"],
+                "url":"https://gitcode.net/felixax/updatejson/-/raw/master/taobao/huafei.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },
+             "淘特-养猫猫粮猫币任务":{
+                "name":"淘特-养猫猫粮猫币任务",
+                "tasks":["猫粮食","猫"],
+                "url":"https://gitcode.net/felixax/updatejson/-/raw/master/taobao/huafei.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },
+            "返回":{
+                "action":"pop"
+            },
+            "饿了么-提款机赚钱":{
+                "name":"饿了么-提款机赚钱",
+                "tasks":["饿了么提款机"],
+                "url":"https://gitcode.net/felixax/updatejson/-/raw/master/taobao/huafei.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },
+            "饿了么-果园0元领水果":{
+                "name":"饿了么-果园0元领水果",
+                "tasks":["饿了么果园"],
+                "url":"https://gitcode.net/felixax/updatejson/-/raw/master/taobao/huafei.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },
+            "饿了么-自动领豆任务":{
+                "name":"饿了么-自动领豆任务",
+                "tasks":["饿了么自动领豆"],
+                "url":"https://gitcode.net/felixax/updatejson/-/raw/master/eleme/dou.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },
+            "淘宝-签到":{
+                "name":"淘宝-签到",
+                "tasks":["淘宝签到"],
+                "url":"https://gitcode.net/felixax/updatejson/-/raw/master/taobao/qindao.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            }
+
+
+            
+            
+        }
+}

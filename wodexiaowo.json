@@ -1,0 +1,139 @@
+﻿{
+    "activity":{
+
+        "tip":"请在网络好的地方执行\n有些任务可能失败 需要手动\n此版本不再更新，尽快下新版本",
+        "list":[
+                "新版本，新增多账号点我更新",
+                
+                "❤️淘宝-我的小窝 更新2024-03-03❤️",
+               
+                "美团红包",
+                "饿了么红包",
+
+                "淘礼金情报群",
+                "交流·反馈 qq群"
+            
+              
+                
+            ],
+        "mapping" :{          
+
+            
+            "❤️淘宝-我的小窝 更新2024-03-03❤️":{
+                "type":"task",
+                "key":["我的小窝"]
+                
+            }
+            
+            
+        }
+                
+    },
+
+    "taskData":{
+           
+             
+
+            "我的小窝":{
+                "type":"task1",
+              
+                "endpage": "taobao://m.tb.cn/h.fHSuQIL",
+                "main":"taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fm.taobao.com",
+                "endMessage":"我的小窝任务结束",
+                
+                "task":{
+                    "tag":"taobaowodexiaowo",
+                    "scheme":"taobao://m.taobao.com/tbopen/index.html?h5Url=",
+                    "baseurl":"https://shop.m.taobao.com/shop/shop_index.htm?shopId=商品定位&shop_id=商品定位&deliveryId=占位参数1&sceneId=占位参数4&hd_from_id=占位参数3&fromToken=aR1DJg5c00K9LpnNUeOS9GgikUzUNU7&implId=占位参数2",
+                    "wait":23,
+                    "wait2":"",
+                    "param":{
+                        "商品定位":[62377409,104736810,229005812,116845644,60790435,68491548,110224300]
+                    },
+                    "before":[
+                      
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=55783&sceneId=4011&q=vivo&embed=true","wait":6},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=48107&sceneId=4011&q=vivo&embed=true","wait":8},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=54149&sceneId=4011&q=vivo&embed=true","wait":6},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=60412&sceneId=4011&q=vivo&embed=true","wait":6},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=49464&sceneId=4011&q=vivo&embed=true","wait":8},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=62016&sceneId=4011&q=vivo&embed=true","wait":18},
+{"url":"taobao://market.m.taobao.com/app/tmallfang/myHouse/home.html?&disableNav=YES","wait":3},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=61573&sceneId=4011&q=vivo&embed=true","wait":6},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=62288&sceneId=2871&q=vivo&embed=true","wait":8},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=54297&sceneId=2871&q=vivo&embed=true","wait":6},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=24411&sceneId=2871&q=vivo&embed=true","wait":6},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=64719&sceneId=2871&q=vivo&embed=true","wait":6},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=49332&sceneId=2871&q=vivo&embed=true","wait":6},
+{"url":"taobao://market.m.taobao.com/app/tmallfang/myHouse/home.html?&disableNav=YES","wait":3},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=64773&sceneId=2871&q=vivo&embed=true","wait":6},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=30935&sceneId=2871&q=vivo&embed=true","wait":6},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=66795&sceneId=2871&q=vivo&embed=true","wait":6},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=61674&sceneId=6440&q=vivo&embed=true","wait":18},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=54494&sceneId=6440&q=vivo&embed=true","wait":8},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=64836&sceneId=4011&q=vivo&embed=true","wait":6},
+{"url":"taobao://market.m.taobao.com/app/tmallfang/myHouse/home.html?&disableNav=YES","wait":3},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=35398&sceneId=4011&q=vivo&embed=true","wait":4},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=57652&sceneId=4011&q=vivo&embed=true","wait":4},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=58547&sceneId=6439&q=vivo&embed=true","wait":4},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=60444&sceneId=6439&q=vivo&embed=true","wait":6},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=63119&sceneId=4011&q=vivo&embed=true","wait":18},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=24393&sceneId=2871&q=vivo&embed=true","wait":6},
+{"url":"taobao://market.m.taobao.com/app/tmallfang/myHouse/home.html?&disableNav=YES","wait":3},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=24406&sceneId=2871&q=vivo&embed=true","wait":6},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=64358&sceneId=2871&q=vivo&embed=true","wait":6},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=43203&sceneId=2871&q=vivo&embed=true","wait":18},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=61029&sceneId=4011&q=vivo&embed=true","wait":6},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=66256&sceneId=4011&q=vivo&embed=true","wait":8},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=66323&sceneId=4011&q=vivo&embed=true","wait":6},
+{"url":"taobao://market.m.taobao.com/app/tmallfang/myHouse/home.html?&disableNav=YES","wait":3},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=66171&sceneId=2871&q=vivo&embed=true","wait":6},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=67051&sceneId=4011&q=vivo&embed=true","wait":8},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=67200&sceneId=4011&q=vivo&embed=true","wait":13},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=67800&sceneId=4011&q=vivo&embed=true","wait":20},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=67778&sceneId=4011&q=vivo&embed=true","wait":20},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=61382&sceneId=6440&q=vivo&embed=true","wait":6},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=64439&sceneId=6440&q=vivo&embed=true","wait":6},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=65819&sceneId=6440&q=vivo&embed=true","wait":13},
+{"url":"taobao://market.m.taobao.com/app/tmallfang/myHouse/home.html?&disableNav=YES","wait":3},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=54910&sceneId=6440&q=vivo&embed=true","wait":6},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=55322&sceneId=6440&q=vivo&embed=true","wait":6},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=62572&sceneId=6440&q=vivo&embed=true","wait":6},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=54906&sceneId=6440&q=vivo&embed=true","wait":6},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=54492&sceneId=6440&q=vivo&embed=true","wait":18},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=54912&sceneId=6440&q=vivo&embed=true","wait":6},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=35420&sceneId=4011&q=vivo&embed=true","wait":6},
+{"url":"taobao://market.m.taobao.com/app/tmallfang/myHouse/home.html?&disableNav=YES","wait":3},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=52657&sceneId=2871&q=vivo&embed=true","wait":6},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=55778&sceneId=2871&q=vivo&embed=true","wait":6},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=24394&sceneId=2871&q=vivo&embed=true","wait":6},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=67036&sceneId=2871&q=vivo&embed=true","wait":6},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=31755&sceneId=2871&q=vivo&embed=true","wait":5},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=55779&sceneId=2871&q=vivo&embed=true","wait":5},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=67796&sceneId=4011&q=vivo&embed=true","wait":5},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=68123&sceneId=2871&q=vivo&embed=true","wait":5},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=68124&sceneId=2871&q=vivo&embed=true","wait":5},
+{"url":"taobao://market.m.taobao.com/app/tmallfang/myHouse/home.html?&disableNav=YES","wait":3},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=43177&sceneId=4011&q=vivo&embed=true","wait":5},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=63094&sceneId=2871&q=vivo&embed=true","wait":5},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=68259&sceneId=2871&q=vivo&embed=true","wait":5},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=68299&sceneId=2871&q=vivo&embed=true","wait":5},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=69106&sceneId=2871&q=vivo&embed=true","wait":5}
+
+
+
+                    ],
+                    "item":[
+
+                        
+
+
+
+                        ]
+                }
+            }
+
+
+
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "activity":{
+
+        "tip":"请在网络好的地方执行\n有些任务可能失败 需要手动\n此版本不再更新，尽快下新版本",
+        "list":[
+                "新版本，新增多账号点我更新",
+                
+                "❤️助力7多账号❤️",
+               
+                "美团红包",
+                "饿了么红包",
+
+                "淘礼金情报群",
+                "交流·反馈 qq群"
+            
+              
+                
+            ],
+        "mapping" :{
+             
+
+            
+            "❤️助力7多账号":{
+                "type":"task",
+                "key":["助力7多账号"]
+                
+            }
+            
+            
+        }
+                
+    },
+
+    "taskData":{
+           
+             
+
+            "助力7多账号":{
+                "type":"task1",
+              
+                "endpage": "taobao://m.tb.cn/h.5vihJZN",
+                "main":"taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fm.taobao.com",
+                "endMessage":"助力7多账号任务结束",
+                
+                "task":{
+                    "tag":"zhuli7duozhanghao",
+                    "scheme":"taobao://m.taobao.com/tbopen/index.html?h5Url=",
+                    "baseurl":"https://shop.m.taobao.com/shop/shop_index.htm?shopId=商品定位&shop_id=商品定位&deliveryId=占位参数1&sceneId=占位参数4&hd_from_id=占位参数3&fromToken=aR1DJg5c00K9LpnNUeOS9GgikUzUNU7&implId=占位参数2",
+                    "wait":23,
+                    "wait2":"",
+                    "param":{
+                        "商品定位":[62377409,104736810,229005812,116845644,60790435,68491548,110224300]
+                    },
+                    "before":[
+					
+{"url":"taobao://m.tb.cn/h.gK0Aq4E","wait":10},
+
+{"url":"taobao://m.tb.cn/h.gqTXl7y","wait":10},
+{"url":"taobao://m.tb.cn/h.gqTrSEV","wait":10},
+{"url":"taobao://m.tb.cn/h.gJj3ygf","wait":10},
+{"url":"taobao://m.tb.cn/h.gqTJljH","wait":10},
+{"url":"taobao://m.tb.cn/h.gJjcTPj","wait":10},
+{"url":"taobao://m.tb.cn/h.gqxGKL8","wait":10},
+
+
+{"url":"taobao://m.tb.cn/h.gLDRatH","wait":10},
+{"url":"taobao://m.tb.cn/h.gKbb5Br","wait":10},
+{"url":"taobao://m.tb.cn/h.gp22brP","wait":10},
+
+{"url":"taobao://m.tb.cn/h.gru0Fcv","wait":10},
+
+
+
+
+
+
+{"url":"taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=taobaolite%3A%2F%2Fm.ltao.com%2Fhomepage%3F","wait":6},
+{"url":"taobaolite://m.tb.cn/h.gp2YQDm","wait":15},
+
+{"url":"taobaolite://m.tb.cn/h.gqTXl7y","wait":15},
+{"url":"taobaolite://m.tb.cn/h.gqTrSEV","wait":15},
+{"url":"taobaolite://m.tb.cn/h.gJj3ygf","wait":15},
+{"url":"taobaolite://m.tb.cn/h.gqTJljH","wait":15},
+{"url":"taobaolite://m.tb.cn/h.gJjcTPj","wait":15},
+{"url":"taobaolite://m.tb.cn/h.gqxGKL8","wait":15},
+
+
+{"url":"taobaolite://m.tb.cn/h.gLDRatH","wait":15},
+{"url":"taobaolite://m.tb.cn/h.gKbb5Br","wait":15},
+{"url":"taobaolite://m.tb.cn/h.gp22brP","wait":15},
+
+{"url":"taobaolite://m.tb.cn/h.gru0Fcv","wait":15},
+
+
+
+
+{"url":"taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=taobaolite%3A%2F%2Fm.ltao.com%2Fhomepage%3F","wait":6},
+{"url":"taobaolite://pages.tmall.com/wow/z/sale/nsrSolution/mrege-radish-home?wh_biz=tm&disableNav=YES","wait":15},
+{"url":"taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=taobaolite%3A%2F%2Fm.ltao.com%2Fhomepage%3F","wait":6},
+{"url":"taobaolite://pages.ltao.com/wow/z/sale/nsrSolution/ltao-duck-home?utparam=%7B%22ranger_buckets_native%22%3A%22tsp33841_301645%22%7D&spm=a211oo.newhomepage.icons.fcy&disableNav=YES","wait":35},
+{"url":"taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=taobaolite%3A%2F%2Fm.ltao.com%2Fhomepage%3F","wait":5},
+{"url":"taobaolite://pages.ltao.com/wow/z/sale/staticSolution/sign-in-cash?utparam=%7B%22ranger_buckets_native%22%3A%22tsp33841_301645%22%7D&scm=null&spm=a211oo.newhomepage.icons.xjqd&wh_kangarooprefetch=true&disableNav=YES","wait":35},
+
+
+
+
+{"url":"taobaoliveshare://m.tb.cn/h.gKbYBhg","wait":15},
+
+{"url":"taobaoliveshare://m.tb.cn/h.gqTXl7y","wait":15},
+{"url":"taobaoliveshare://m.tb.cn/h.gqTrSEV","wait":15},
+{"url":"taobaoliveshare://m.tb.cn/h.gJj3ygf","wait":15},
+{"url":"taobaoliveshare://m.tb.cn/h.gqTJljH","wait":15},
+{"url":"taobaoliveshare://m.tb.cn/h.gJjcTPj","wait":15},
+{"url":"taobaoliveshare://m.tb.cn/h.gqxGKL8","wait":15},
+
+{"url":"taobaoliveshare://m.tb.cn/h.gLDRatH","wait":15},
+{"url":"taobaoliveshare://m.tb.cn/h.gKbb5Br","wait":15},
+{"url":"taobaoliveshare://m.tb.cn/h.gp22brP","wait":15},
+
+{"url":"taobaoliveshare://m.tb.cn/h.gru0Fcv","wait":15}
+
+
+                    ],
+                    "item":[
+
+                        
+                        
+
+
+                        
+
+
+
+                        ]
+                }
+            }
+
+
+
+    }
+}

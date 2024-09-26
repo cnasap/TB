@@ -1,0 +1,89 @@
+{
+    "activity":{
+
+        "tip":"请在网络好的地方执行\n有些任务可能失败 需要手动\n此版本不再更新，尽快下新版本",
+        "list":[
+                                
+                "❤️摇现金 更新2024-01-25❤️",
+               
+                "美团红包",
+                "饿了么红包",
+
+                "淘礼金情报群",
+                "交流·反馈 qq群"
+            
+              
+                
+            ],
+        "mapping" :{
+            
+            
+            "❤️摇现金 更新2024-01-25❤️":{
+                "type":"task",
+                "key":["摇现金"]
+                
+            }
+            
+            
+        }
+                
+    },
+
+    "taskData":{
+           
+             
+
+            "摇现金":{
+                "type":"task1",
+              
+                "endpage": "taobao://m.tb.cn/h.5vihJZN",
+                "main":"taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fm.taobao.com",
+                "endMessage":"摇现金任务结束",
+                
+                "task":{
+                    "tag":"taobaoyaoxianjin",
+                    "scheme":"taobao://m.taobao.com/tbopen/index.html?h5Url=",
+                    "baseurl":"https://shop.m.taobao.com/shop/shop_index.htm?shopId=商品定位&shop_id=商品定位&deliveryId=占位参数1&sceneId=占位参数4&hd_from_id=占位参数3&fromToken=aR1DJg5c00K9LpnNUeOS9GgikUzUNU7&implId=占位参数2",
+                    "wait":23,
+                    "wait2":"",
+                    "param":{
+                        "商品定位":[62377409,104736810,229005812,116845644,60790435,68491548,110224300]
+                    },
+                    "before":[
+					
+
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=53037&sceneId=5603&q=vivo&embed=true","wait":18},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=52062&sceneId=5603&q=vivo&embed=true","wait":18},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=54636&sceneId=5603&q=vivo&embed=true","wait":18},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=61249&sceneId=5603&q=vivo&embed=true","wait":18},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=60966&sceneId=5603&q=vivo&embed=true","wait":18},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=62104&sceneId=5603&q=vivo&embed=true","wait":18},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=48463&sceneId=5603&q=vivo&embed=true","wait":18},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=67348&sceneId=7580&q=vivo&embed=true","wait":18},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=67341&sceneId=7580&q=vivo&embed=true","wait":18},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=67362&sceneId=7580&q=vivo&embed=true","wait":18},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=67672&sceneId=7580&q=vivo&embed=true","wait":33},
+{"url":"taobao://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=67673&sceneId=7580&q=vivo&embed=true","wait":33}
+
+
+
+
+                    ],
+                    "item":[
+
+                        
+                        
+
+
+                        
+
+
+
+                        ]
+                }
+            }
+
+
+
+    }
+}
